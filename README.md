@@ -1,6 +1,6 @@
 # Better data on children in care - Discovery
 
-Understanding the pain points in the Looked After Children (LAC) dataset statutory return process, and exploring why Children’s Services leadership don’t have timely access to the data and information needed to make sure LAC access the right support. This research was carried out with Greater Manchester Combined Authority, Manchester City Council, Wigan Council and Stockport Metropolitan Borough Council.
+Understanding the pain points in the Looked After Children (LAC) dataset statutory return process, and exploring why Children’s Services leadership don’t have timely access to the data and information needed to make sure LAC access the right support. This research was carried out with Greater Manchester Combined Authority, Manchester City Council, Wigan Council and Stockport Metropolitan Borough Council. 
 
  ## Project outputs
  
